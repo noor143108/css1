@@ -1,0 +1,80 @@
+body{
+    font-family:initial;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+
+.heading{
+    font-size: 40px;
+    color: red;
+    font-weight:bolder;
+    text-decoration: ;
+}
+
+.subheading1{
+    color: green;
+    font-style: oblique;
+    padding: 10px;
+    
+    font-size: 30px;
+}
+
+.item4{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.item{
+    font-size: 20px;
+    font-weight: 500;
+    color: brown;
+   
+}
+
+.externalexample{
+    letter-spacing: 6px;
+}
+
+.list{
+    font-size: 20px;
+    font-weight: 500;
+    color: brown;
+}
+
+.list2{
+    font-size: 20px;
+    font-weight: 500;
+    color: brown;
+}
+
+.paragraph{
+    color: red;
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.linkbut{
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 20px;
+    color: brown;
+    
+}
+
+.img{
+    height: 20%;
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+.click{
+    
+    background-color: chartreuse;
+    border-color: chartreuse;
+text-decoration: none;
+
+}
